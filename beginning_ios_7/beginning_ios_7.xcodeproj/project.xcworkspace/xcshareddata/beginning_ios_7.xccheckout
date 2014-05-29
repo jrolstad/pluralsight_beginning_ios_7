@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0419AA1B-DCF1-4C1C-9F9F-94C513E7F2C2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>beginning_ios_7</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>05DBF1E7-CA0A-4EB6-AEFE-9B7746734A85</key>
+		<string>https://github.com/jrolstad/pluralsight_beginning_ios_7.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>beginning_ios_7/beginning_ios_7.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>05DBF1E7-CA0A-4EB6-AEFE-9B7746734A85</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jrolstad/pluralsight_beginning_ios_7.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>05DBF1E7-CA0A-4EB6-AEFE-9B7746734A85</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>05DBF1E7-CA0A-4EB6-AEFE-9B7746734A85</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pluralsight_beginning_ios_7</string>
+		</dict>
+	</array>
+</dict>
+</plist>
